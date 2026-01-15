@@ -1,11 +1,8 @@
 # 💫 About Me:
-CS Undergrad and Frontend Developer, AI/ML, Data Science. 
-Building  web applications with solutions  and improving my frontend engineering skills with modern frameworks.
-I would love to involve myself in  projects involving AI , frontend & Backend  development, data analytics,
-Currently acquiring knowledge about Advanced machine learning workflows and deploying scalable AI systems.
-Deep learning, data engineering pipelines, and advanced JavaScript/TypeScript for high-performance web apps.
-AI tools, frontend development, data analysis, data science or productivity-focused tech solutions.
-I enjoy turning complex ideas into simple, beautifully designed digital products.
+CS Undergrad and Frontend Developer, AI/ML, Data Science.<br>
+Building  web applications with solutions  and improving my frontend engineering skills with modern frameworks.<br>
+I enjoy turning complex ideas into simple, beautifully designed digital products.<br>
+Portfolio at : 
 
 
 ## 🌐 Socials:
