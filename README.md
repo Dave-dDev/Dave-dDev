@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**Dave-dDev/Dave-dDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:# 💫 About Me:
+# 💫 About Me:
 Building  web applications with solutions  and improving my frontend engineering skills with modern frameworks.<br>I would love to involve myself in  projects involving AI , frontend & Backend  development, data analytics,<br>Currently acquiring knowledge about Advanced machine learning workflows and deploying scalable AI systems.<br>Deep learning, data engineering pipelines, and advanced JavaScript/TypeScript for high-performance web apps.<br>AI tools, frontend development, data analysis, data science or productivity-focused tech solutions.<br>Fun fact<br>I enjoy turning complex ideas into simple, beautifully designed digital products.<br>
 
 
@@ -21,6 +16,3 @@ Building  web applications with solutions  and improving my frontend engineering
 [![](https://visitcount.itsvg.in/api?id=Dave-dDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
--->
