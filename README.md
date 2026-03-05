@@ -2,7 +2,7 @@
 CS Undergrad and Frontend Developer, AI/ML, Data Science.<br>
 Building  web applications with solutions  and improving my frontend engineering skills with modern frameworks.<br>
 I enjoy turning complex ideas into simple, beautifully designed digital products.<br>
-Portfolio at : 
+Portfolio at : https://jumodavid.netlify.app/
 
 
 ## 🌐 Socials:
